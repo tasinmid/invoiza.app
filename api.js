@@ -1,4 +1,4 @@
-const BASE_URL = 'https://slideshow-ultimate-accordingly-constantly.trycloudflare.com';
+const BASE_URL = 'https://invoiza.onrender.com';
 
 /**
  * Fetches the list of available templates from the backend.
